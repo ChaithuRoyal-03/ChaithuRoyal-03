@@ -29,5 +29,3 @@ Hi, I'm Chaithanya — a passionate learner in the field of data and software de
 ---
 [![](https://visitcount.itsvg.in/api?id=ChaithuRoyal-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-https://linkedin.com/in/chaithanya-m-b7400526b
